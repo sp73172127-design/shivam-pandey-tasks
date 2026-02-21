@@ -1,0 +1,31 @@
+Shivam Pandey Task Management App
+
+BACKEND:
+- Node.js
+- Express
+- MongoDB Atlas
+- JWT Auth
+- Task APIs
+- Reminder Cron Jobs
+
+FRONTEND:
+- Next.js
+- Tailwind CSS
+- Dashboard
+- Task Sorting
+- Secure Login
+
+ANDROID APP:
+- Native Android
+- WebView
+- Firebase Push Notifications
+- Play Store Ready
+
+FEATURES:
+- Task assignment
+- Priority & deadline
+- Notifications
+- Secure authentication
+
+OWNER:
+Shivam Pandey
